@@ -61,5 +61,5 @@ proximal_operator_for_logsum_2.p
 
 r2_vector.p
 
-r2_one_dimension.p                           &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Subroutine forcontrast_runcode_Panlili_GADMM.p 
+r2_one_dimension.p                           &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Subroutine forcontrast_runcode_Panlili_GADMM.p 
 
