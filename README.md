@@ -1,5 +1,5 @@
 This repository contains the implementation of the double iteratively reweighted algorithm for solving constrained nonconvex group sparsity optimization problem. 
-For further details on the problem and the algorithm, please refer to our paper that will be uploded to Axive next week.
+For further details on the problem and the algorithm, please refer to our paper [(https://arxiv.org/abs/2511.19163)](https://arxiv.org/abs/2511.19163).
 
 run.p  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Run three sets of numerical experiments 1.-3. for comparasion separately and store the data correspondingly.
 
